@@ -18,6 +18,7 @@ Setiap folder dalam repositori ini mewakili satu tugas berupa lab individual mau
   *  Memprediksi apakah seorang karyawan akan meninggalkan perusahaan atau tetap bekerja menggunakan KNN Classification
   *  Memprediksi gaji bulanan dari karyawan menggunakan KNN Regression
   *  Membentuk cluster dari dataset tersebut menggunakan K-Means berdasarkan pendapatan bulanan karyawan (MonthlyIncome), persentase kenaikan gaji (PercentSalaryHike), dan level pekerjaan karyawan (JobLevel).
+  
   **Catatan:** Folder `tugas-kelompok/` yang terdapat pada repository ini hanya berisi kontribusi dan file saya secara individual untuk proyek kelompok. File gabungan atau kontribusi dari anggota kelompok lainnya tidak termasuk dalam repositori ini.
 
 ## Pemilik Repository
